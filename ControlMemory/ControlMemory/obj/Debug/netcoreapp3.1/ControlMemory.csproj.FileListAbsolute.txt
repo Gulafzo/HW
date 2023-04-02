@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\ControlMemory\ControlMemory\bin\Debug\netcoreapp3.1\ControlMemory.exe
+C:\Users\user\source\repos\ControlMemory\ControlMemory\bin\Debug\netcoreapp3.1\ControlMemory.deps.json
+C:\Users\user\source\repos\ControlMemory\ControlMemory\bin\Debug\netcoreapp3.1\ControlMemory.runtimeconfig.json
+C:\Users\user\source\repos\ControlMemory\ControlMemory\bin\Debug\netcoreapp3.1\ControlMemory.runtimeconfig.dev.json
+C:\Users\user\source\repos\ControlMemory\ControlMemory\bin\Debug\netcoreapp3.1\ControlMemory.dll
+C:\Users\user\source\repos\ControlMemory\ControlMemory\bin\Debug\netcoreapp3.1\ControlMemory.pdb
+C:\Users\user\source\repos\ControlMemory\ControlMemory\obj\Debug\netcoreapp3.1\ControlMemory.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ControlMemory\ControlMemory\obj\Debug\netcoreapp3.1\ControlMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\ControlMemory\ControlMemory\obj\Debug\netcoreapp3.1\ControlMemory.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\ControlMemory\ControlMemory\obj\Debug\netcoreapp3.1\ControlMemory.AssemblyInfo.cs
+C:\Users\user\source\repos\ControlMemory\ControlMemory\obj\Debug\netcoreapp3.1\ControlMemory.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ControlMemory\ControlMemory\obj\Debug\netcoreapp3.1\ControlMemory.dll
+C:\Users\user\source\repos\ControlMemory\ControlMemory\obj\Debug\netcoreapp3.1\ControlMemory.pdb
+C:\Users\user\source\repos\ControlMemory\ControlMemory\obj\Debug\netcoreapp3.1\ControlMemory.genruntimeconfig.cache
